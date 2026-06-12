@@ -1,0 +1,30 @@
+body{
+    background:#f5f7fa;
+}
+
+.card{
+    border:none;
+    border-radius:15px;
+}
+
+h1{
+    font-weight:700;
+}
+
+.progress{
+    height:30px;
+    border-radius:10px;
+}
+
+.progress-bar{
+    font-size:14px;
+    font-weight:bold;
+}
+
+.btn-danger{
+    border-radius:10px;
+}
+
+label{
+    font-weight:600;
+}
